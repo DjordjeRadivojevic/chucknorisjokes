@@ -17,6 +17,7 @@ public class JokesController {
     @RequestMapping({"/",""})
     public String getJokes(Model model){
         model.addAttribute("joke",chuckNorrisQuotesService.getRandomQuote());
+        System.out.println("checking jenkins working");
         return "chucknorris";
     }
 }
