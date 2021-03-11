@@ -48,7 +48,7 @@
     </dependencies>
 
     <build>
-        <finalName>docker-chuch-noris-jokes</finalName>
+        <finalName>docker-chuch-noris-joke</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
