@@ -1,4 +1,5 @@
-FROM openjdk:8
-EXPOSE 8080
-ADD target/docker-chuch-noris-joke.jar docker-chuch-noris-joke
+FROM openjdk:8-jdk-alpine
+EXPOSE 8081
+VOLUME /tmp
+ADD /docker-chuch-noris-joke.jar docker-chuch-noris-joke.jar
 ENTRYPOINT ["java","-jar","/docker-chuch-noris-joke.jar"]
