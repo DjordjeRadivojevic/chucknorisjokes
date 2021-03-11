@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk-alpine
 EXPOSE 8081
 VOLUME /tmp
-ADD /docker-chuch-noris-joke.jar docker-chuch-noris-joke.jar
+COPY target/docker-chuch-noris-joke.jar docker-chuch-noris-joke
 ENTRYPOINT ["java","-jar","/docker-chuch-noris-joke.jar"]
