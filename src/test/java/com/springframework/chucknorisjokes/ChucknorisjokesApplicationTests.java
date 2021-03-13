@@ -14,4 +14,8 @@ class ChucknorisjokesApplicationTests {
     @Test
     void master2() {
     }
+
+    @Test
+    void branch2() {
+    }
 }
