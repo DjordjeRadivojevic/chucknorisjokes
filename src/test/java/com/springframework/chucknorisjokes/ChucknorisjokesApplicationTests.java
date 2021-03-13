@@ -9,4 +9,8 @@ class ChucknorisjokesApplicationTests {
     @Test
     void contextLoads() {
     }
+
+    @Test
+    void masterBranch() {
+    }
 }
