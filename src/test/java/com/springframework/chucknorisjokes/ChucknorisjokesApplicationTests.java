@@ -8,10 +8,10 @@ class ChucknorisjokesApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("feature branch added");
     }
 
     @Test
-    void contextLoads1() {
+    void contextLoadsFeatureBranch() {
     }
-
 }
