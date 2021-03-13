@@ -10,4 +10,8 @@ class ChucknorisjokesApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    void contextLoads1() {
+    }
+
 }
