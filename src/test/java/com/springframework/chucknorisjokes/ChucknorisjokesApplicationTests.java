@@ -8,7 +8,7 @@ class ChucknorisjokesApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("test");
+        System.out.println("Another change");
     }
 
 }
