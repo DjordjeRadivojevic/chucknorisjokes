@@ -13,5 +13,6 @@ class ChucknorisjokesApplicationTests {
 
     @Test
     void masterBranch() {
+        System.out.println("stash test");
     }
 }
