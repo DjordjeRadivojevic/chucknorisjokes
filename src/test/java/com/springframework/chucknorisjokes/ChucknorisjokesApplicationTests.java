@@ -10,4 +10,8 @@ class ChucknorisjokesApplicationTests {
     void contextLoads() {
         System.out.println("masterTest");
     }
+
+    @Test
+    void test1() {
+    }
 }
