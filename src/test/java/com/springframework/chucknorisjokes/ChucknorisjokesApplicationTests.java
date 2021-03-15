@@ -10,4 +10,8 @@ class ChucknorisjokesApplicationTests {
     void contextLoads() {
         System.out.println("feature branch");
     }
+
+    @Test
+    void test1() {
+    }
 }
