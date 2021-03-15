@@ -8,10 +8,6 @@ class ChucknorisjokesApplicationTests {
 
     @Test
     void contextLoads() {
-    }
-
-    @Test
-    void masterBranch() {
-        System.out.println("stash test");
+        System.out.println("masterTest");
     }
 }
