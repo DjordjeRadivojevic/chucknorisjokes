@@ -8,6 +8,6 @@ class ChucknorisjokesApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("masterTest");
+        System.out.println("test commit 2");
     }
 }
