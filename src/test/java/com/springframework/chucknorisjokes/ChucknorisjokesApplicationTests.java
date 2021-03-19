@@ -11,7 +11,4 @@ class ChucknorisjokesApplicationTests {
         System.out.println("master 3");
     }
 
-    @Test
-    void master2() {
-    }
 }
