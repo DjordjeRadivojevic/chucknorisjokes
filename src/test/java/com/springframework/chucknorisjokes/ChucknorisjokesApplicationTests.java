@@ -13,6 +13,7 @@ class ChucknorisjokesApplicationTests {
 
     @Test
     void master2() {
+        System.out.println("dsds");
     }
 
     @Test
