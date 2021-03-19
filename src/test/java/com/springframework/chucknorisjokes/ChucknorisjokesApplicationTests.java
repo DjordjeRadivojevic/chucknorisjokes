@@ -8,6 +8,7 @@ class ChucknorisjokesApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("master 3");
     }
 
     @Test
