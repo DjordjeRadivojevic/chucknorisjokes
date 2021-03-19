@@ -19,8 +19,4 @@ class ChucknorisjokesApplicationTests {
     @Test
     void branch2() {
     }
-
-    @Test
-    void branch2() {
-    }
 }
